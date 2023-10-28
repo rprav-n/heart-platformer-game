@@ -1,4 +1,4 @@
 res://scenes/world.tscn
-res://scenes/world.gd
 res://scenes/player/player.tscn
+res://resources/player_movement_data.gd
 res://scenes/player/player.gd

@@ -1,9 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698425286
+::res://::1698467338
 icon.svg::CompressedTexture2D::8888620405165326985::1698424443::1698424451::1::::<><>::
 ::res://assets/::1698425301
-::res://assets/player/::1698425301
+::res://assets/player/::1698425306
 player.png::CompressedTexture2D::6532337038154927727::1698425268::1698425302::1::::<><>::
-::res://scenes/::1698425109
+::res://scenes/::1698467466
 world.gd::GDScript::-1::1698425108::0::1::::World<>Node2D<>::
-world.tscn::PackedScene::7483422493815681904::1698425109::0::1::::<><>::res://scenes/world.gd
+world.tscn::PackedScene::7483422493815681904::1698467466::0::1::::<><>::res://scenes/world.gd<>uid://dqat4xntq0kn::::res://scenes/player/player.tscn
+::res://scenes/player/::1698467466
+player.gd::GDScript::-1::1698428887::0::1::::Player<>CharacterBody2D<>::
+player.tscn::PackedScene::243632064387611349::1698467475::0::1::::<><>::uid://c0ckvv7gkbq3p::::res://assets/player/player.png<>res://scenes/player/player.gd
